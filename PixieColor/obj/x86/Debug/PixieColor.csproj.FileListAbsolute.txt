@@ -1,0 +1,9 @@
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\bin\Debug\PixieColor.exe
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\bin\Debug\PixieColor.pdb
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\PixieColor.Form1.resources
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\PixieColor.Properties.Resources.resources
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\PixieColor.exe
+C:\Users\Grezzled\Documents\Visual Studio 2010\Projects\PixieColor\PixieColor\obj\x86\Debug\PixieColor.pdb
