@@ -1,5 +1,4 @@
 # PixieColor - C# language
-PixieColor is a simple application that allows web and graphic designers to pick a color on screen. To use it, is very simple just move your cursor over the desired color on your screen. PixieColor will tell you the values of that color in a range of different formats.
+PixieColor is a simple windows application that allows designers to pick a color on their screens. To use it, is very simple just move your cursor over the desired color PixieColor will tell you the values of that color in a range of different formats (HEX,RGB..etc), then copy it by tap and hold Ctrl-Shift-C on your keyboard. 
 
-Created with <3 and Cup some cups of cofee - using c# language 
-
+Made with ❤️ using Visual Studio 
